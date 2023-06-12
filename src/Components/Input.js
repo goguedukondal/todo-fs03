@@ -18,6 +18,7 @@ function Input() {
         <input
           style={{ width: "30vw" }}
           type="text"
+          value={item}
           onChange={(e) => setItem(e.target.value)}
         />
         &nbsp;&nbsp;&nbsp;
