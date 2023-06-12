@@ -1,0 +1,9 @@
+.input-list{
+    width: 50vw;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
+    margin-top: 20px;
+   
+}
